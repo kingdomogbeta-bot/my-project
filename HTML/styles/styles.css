@@ -1,0 +1,163 @@
+*{
+     font-family: "Montserrat", sans-serif;
+}
+.header img{
+     height: 900px;
+     width: 100%;
+     background-color:  rgb(88, 176, 88);
+     color: rgb(88, 176, 88);
+} 
+
+.header{
+     height: 900px;
+    width: 1160px;
+     background-color: rgb(88, 176, 88);
+}
+
+.big1nav{
+     display: flex;
+     gap: 900px;
+     position: relative;
+     bottom: 880px;
+     color: white;
+}
+.mini1nav{
+     font-weight: 700;
+     padding-left: 10px;
+}
+
+.con-1{
+     display: flex;
+     position: relative;
+     bottom: 850px;
+     gap: 300px;
+    
+}
+.navtext h6{
+     color: rgb(217, 221, 224);
+     font-size: 20px;
+     position: relative;
+     left: 50px;
+      
+}
+.navtext p{
+     font-size: 50px;
+     color: white;
+     font-weight:700;
+     position: relative;
+     left: 50px;
+}
+.iconnav{
+     position: relative;
+     top: 130px;
+     color: white;
+     right: 20px;
+     list-style-type: none;display: flex;
+     flex-direction: column;
+     gap: 20px;
+   
+}
+.navbtn{
+     position: relative;
+     bottom: 700px;
+     left: 50px;
+     justify-content: space-between;
+     gap: 20px;
+     
+    
+}
+.navbtn button{
+     padding: 20px;
+     background-color: rgb(217, 221, 224);
+     color:black;
+    
+}
+ .con-2{
+          background-color: rgb(85, 177, 85);
+          padding: 20px;
+          width:1120px;
+          height: 900px;
+}
+ .con-2 h6{
+     font-size: 20px; 
+     text-align: center;
+}
+ .con-2 h3{
+   position: relative;
+   bottom: 60px;
+    font-size: 70px;
+    text-align: center;
+    color: white;
+ }
+ .underline{
+     border: 0.5px solid  rgb(217, 221, 224);;
+     width: 400px;
+     position: relative;
+     bottom: 100px;
+     left: 340px;
+ }
+ .con-3 p{
+     text-align: center;
+      font-size: 20px; 
+      font-weight: 500;
+      position: relative;
+      bottom: 80px;
+      gap: 10px;
+      line-break: 100px;
+      line-height: 40px;
+ }
+ .con-4{
+     display: flex;
+     justify-content: space-between;
+     justify-items: center;
+     padding: 100px;
+     position: relative;
+     bottom: 100px;
+
+ }
+ .vline{
+     border: 1px solid  rgb(217, 221, 224);
+     height: 120px;
+ }
+ .con-4 h2{
+      font-size: 80px;
+      color: white;
+      text-align: center;
+      font-weight: 700;
+      position: relative;
+      bottom: 70px;
+ }
+.con-4 p{
+     text-align: center;
+      font-weight: 500;
+      position: relative;
+      bottom: 140px;
+
+}
+.con-5{
+     
+     width:1000px;
+     padding: 80px;
+     position: relative;
+     bottom: 70px;
+}
+.con-5 h6{
+     font-size: 20px; 
+     text-align: center;
+     color:  rgb(85, 177, 85);
+     position: relative;
+     top: 40px;
+}
+.con-5 p{
+     text-align: center;
+     font-size: 50px;
+     font-weight: 600;
+}
+.con-6{
+    
+     width:870px;
+    position: relative;
+    left: 290px;
+    bottom: 120px;
+}
+
