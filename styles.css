@@ -1,14 +1,14 @@
 *{
      font-family: "Montserrat", sans-serif;
 }
-.header img{
+header img{
      height: 900px;
      width: 100%;
      background-color:  rgb(88, 176, 88);
      color: rgb(88, 176, 88);
 } 
 
-.header{
+header{
      height: 900px;
     width: 1160px;
      background-color: rgb(88, 176, 88);
