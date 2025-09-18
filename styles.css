@@ -163,11 +163,14 @@ header{
 .con1{
  
  display: flex;
+ justify-content: center;
 }
 .con2{
  display: flex;
+ justify-content: center;
 }
 .con3{
  display: flex;
+ justify-content: center;
 }
 
